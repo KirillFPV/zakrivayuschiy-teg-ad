@@ -1,1 +1,1 @@
-https://github.com/KirillFPV/zakrivayuschiy-teg-ad
+https://kirillfpv.github.io/zakrivayuschiy-teg-ad/
